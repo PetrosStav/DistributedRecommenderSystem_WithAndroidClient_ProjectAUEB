@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">DSErgasiaAndroid</string>
+    <string name="title_main">Distributed Systems - Project</string>
+    <string name="btn_title">Search</string>
+    <string name="title_activity_maps">Distributed Systems - Map</string>
+    <string name='btnGo'>Go</string>
+    <string name="poi_s_photo">POI\'s photo</string>
+</resources>

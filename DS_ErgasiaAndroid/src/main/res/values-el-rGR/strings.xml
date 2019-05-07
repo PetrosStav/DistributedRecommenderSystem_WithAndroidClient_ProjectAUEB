@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DSErgasiaAndroid</string>
+    <string name="title_main">Κατανεμημένα Συστήματα - Εργασία</string>
+    <string name="btn_title">Αναζήτηση</string>
+    <string name="title_activity_maps">Κατανεμημένα Συστήματα - Χάρτης</string>
+    <string name="btnGo">Πήγαινε</string>
+</resources>
