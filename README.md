@@ -1,1 +1,1 @@
-# DistributedRecommenderSystemWithAndroidClientProjectAUEB
+# DistributedRecommenderSystem_WithAndroidClient_ProjectAUEB
